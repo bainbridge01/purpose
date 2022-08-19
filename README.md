@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Purpose is a representation of the basic backend skeleton of a ruby on rail blog
 
-Things you may want to cover:
+Specification and material used:
 
-* Ruby version
+* Ruby version - 3.0.3
+* Deployment instructions - bin/rails s
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Material source: https://guides.rubyonrails.org/getting_started.html
